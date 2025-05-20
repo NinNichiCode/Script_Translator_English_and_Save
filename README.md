@@ -37,7 +37,7 @@ You'll see a popup like:
 
 🇬🇧 He has versatile experience.
 
-➡
+-->
 
 🇻🇳 Anh ấy có kinh nghiệm đa năng
 If you press Ctrl + M, this translation will also be saved to the text file.

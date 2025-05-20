@@ -35,10 +35,10 @@ Then press Ctrl + B.
 
 You'll see a popup like:
 
-🇬🇧 He has versatile experience.
+🇬🇧 Hello
 
 -->
 
-🇻🇳 Anh ấy có kinh nghiệm đa năng
+🇻🇳 Xin chào
 
 If you press Ctrl + M, this translation will also be saved to the text file.

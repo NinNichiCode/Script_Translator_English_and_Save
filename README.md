@@ -18,7 +18,6 @@ A simple Python tool that allows you to **translate English text** directly from
 
 Make sure you have **Python 3.6+** installed. Then install the dependencies:
 
-```bash
 pip install pyperclip keyboard deep-translator eng_to_ipa
 
 --- 

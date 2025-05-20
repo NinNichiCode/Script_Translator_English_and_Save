@@ -24,12 +24,10 @@ pip install pyperclip keyboard deep-translator eng_to_ipa
 Use the following shortcuts:
 
 Shortcut	Action
-Ctrl + B	Translate and show popup only
-Ctrl + M	Translate, show popup, and save to file
+- Ctrl + B	Translate and show popup only
+- Ctrl + M	Translate, show popup, and save to file
 
-For Example
-
-Copy this sentence:
+For Example: copy this sentence:
 
 He has versatile experience.
 

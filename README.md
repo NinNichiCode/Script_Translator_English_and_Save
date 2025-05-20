@@ -28,9 +28,11 @@ Ctrl + B	Translate and show popup only
 Ctrl + M	Translate, show popup, and save to file
 
 For Example
+
 Copy this sentence:
 
 He has versatile experience.
+
 Then press Ctrl + B.
 
 You'll see a popup like:
@@ -40,4 +42,5 @@ You'll see a popup like:
 -->
 
 🇻🇳 Anh ấy có kinh nghiệm đa năng
+
 If you press Ctrl + M, this translation will also be saved to the text file.
